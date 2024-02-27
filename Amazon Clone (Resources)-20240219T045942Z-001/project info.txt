@@ -1,0 +1,16 @@
+Using "font awesome" for fonts in website
+
+using "cdn" i.e content delivery network 
+
+what is cdn:
+Imagine you're at a party and you want some snacks. Instead of going all the way to the kitchen every time you want a snack,
+ the party host puts snack stations in different rooms throughout the house.
+ These snack stations have the same snacks as the kitchen, so you can get them quickly without walking far.
+
+In this analogy:
+
+You are the internet user.
+The kitchen is the original website where the content (like images, videos, etc.) is stored.
+The snack stations are the servers in the Content Delivery Network (CDN).
+The party host is the website owner who uses the CDN to make sure you get the content faster.
+So, instead of fetching content from the original website every time, the CDN brings the content closer to you, making the internet faster and more efficient.
